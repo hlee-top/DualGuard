@@ -71,10 +71,11 @@ python main.py --attack_llm gpt-4.1-nano --llm_name opt1.3b --transform_model_na
 
 ## Citation
 ```
-@article{li2025dualguard,
+@inproceedings{li2026dualguard,
   title={DualGuard: Dual-stream Large Language Model Watermarking Defense against Paraphrase and Spoofing Attack},
   author={Li, Hao and Ren, Yubing and Cao, Yanan and Li, Yingjie and Fang, Fang and Wang, Shi and Guo, Li},
-  journal={arXiv preprint arXiv:2512.16182},
-  year={2025}
+  booktitle={Findings of the Association for Computational Linguistics: ACL 2026},
+  pages={23338--23361},
+  year={2026}
 }
 ```
